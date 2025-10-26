@@ -1,29 +1,21 @@
 # ddosudo
-_HEHEHEHEH FAÇA UM ATAQUE SIMPLES EM UM SITE SIMPLES.._
 
+_⚠️ AVISO LEGAL: Este projeto deve ser usado APENAS em ambientes controlados e com autorização explícita._
 
-*BÁSICOS*
-1- _PYTHON3_
-2- _TER UM TERMINAL_
-3- _SABER PARAR_
+Pré-requisitos
 
+```bash
+pip install requests urllib3
+```
 
-:OPS SE NAO FECAHR NO ^C FECHE O TERMINAL!
+# instalação básica:
+_termux_
+*pkg update
+pkg upgrade
+pkg install git
+git clone
+cd ddosudo
 
-________________________
-|↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-| *INSTALAÇÃO/EXECUÇÃO*
-|
-| *pip install Python3*
-|_____________________
-| *pkg install update*
-|_____________________
-|*pkg install upgrade*
-|__________________
-| *pkg install git*
-|___________
-|*git clone*
-|_______________
-
-
+↓ se nao tiver python3
+pkg install python*
 
