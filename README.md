@@ -11,11 +11,14 @@ pip install requests urllib3
 # instalação básica:
 _termux_
 ```
-*pkg update
+pkg update
 pkg upgrade
 pkg install git
-git clone
+git clone https://github.com/gustavoDe1781/ddosudo.git
 cd ddosudo
+python3 ddosudo
 ```
-↓ se nao tiver python3
-pkg install python*
+# se nao tiver python3
+```
+pkg install python
+```
